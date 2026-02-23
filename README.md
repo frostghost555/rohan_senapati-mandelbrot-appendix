@@ -1,1 +1,1 @@
-This repository contains the full proofs and data for the research project finalized in March 2025. Files were prepared and uploaded for public access in July 2025. the completed research paper from March 2025 was revised for Curiuex's manuscript in February 2026.
+This repository contains the full proofs and data for the research project finalized in March 2025. Files were prepared and uploaded for public access in July 2025. The completed research paper from March 2025 was revised for Curieux's manuscript in February 2026.
